@@ -1,4 +1,2 @@
-# rndproj-fb9cpcqi
-
-Random cpp project for playground.
-
+# rndproj-fb9cpcqi\n\nLanding page for a tiny product concept.\n
+New-FileDef
