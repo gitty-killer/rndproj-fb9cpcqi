@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-fb9cpcqi"",
-  ""goal"": ""metrics summarizer for log analysis"",
-  ""language"": ""go"",
-  ""template"": ""go-service""
+    "name":  "rndproj-fb9cpcqi",
+    "goal":  "metrics summarizer for log analysis",
+    "language":  "go",
+    "template":  "go-service"
 }
